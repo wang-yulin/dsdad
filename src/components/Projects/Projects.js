@@ -33,6 +33,7 @@ const Projects = () => {
 		        <div className="pr3-ns mb4 mb0-ns w-100 w-40-ns">
 		          <img src={robot} className="db grow" alt=""/>
 		          <div className="ph3 flex justify-center">
+		              <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://yulin-robots.herokuapp.com/">Live</a>
 					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wangyulinaaron/Robots">Github</a>
 				  </div>
 		        </div>
@@ -52,7 +53,7 @@ const Projects = () => {
 		        <div className="pr3-ns mb4 mb0-ns w-100 w-40-ns">
 		          <img src={portfile} className="db grow" alt=""/>
 		          <div className="ph3 flex justify-center">
-					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="">Live</a>
+					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://yulin-profile.herokuapp.com/">Live</a>
 					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wangyulinaaron/portfolio">Github</a>
 				  </div>
 		        </div>
