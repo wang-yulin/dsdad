@@ -1,10 +1,14 @@
 import React from 'react';
+import aaron from './aaron.jpg';
+import github from './github.png';
+import linkedin from './linkedin.png';
+import './AboutMe.css';
 
 const AboutMe = () => {
 	return (
 		<div className="flex flex-row justify-center ">
 			<div className="mw5 pa3 ma5">
-				<img src="" alt=""/>
+				<img src={aaron} className="aaron" alt=""/>
 				<div className="">
 					<h1>Yulin Wang</h1>
 					<hr className="mw3 bb bw1 b--black-10"/>
@@ -15,7 +19,7 @@ const AboutMe = () => {
 					   target="_blank"
 					   rel="noopener noreferrer" 
 					   title="Github">
-					  <img src="https://img.icons8.com/metro/52/000000/github.png" alt=""/>
+					  <img src={github} alt=""/>
 					  <span className="f6 db">GitHub</span>
 					</a>					
 					<a className="link  dib mh3 tc"
@@ -23,20 +27,19 @@ const AboutMe = () => {
 					   target="_blank"
 					   rel="noopener noreferrer" 
 					   title="LinkedIn">
-					   <img src="https://img.icons8.com/metro/52/000000/linkedin.png" alt=""/>
+					   <img src={linkedin} alt=""/>
 					   <span className="f6 db">LinkedIn</span>
 					</a>					
 				</footer>
 			</div>
 			<div className="mw7 tl pa3 ma3">
 				<h1>About me!</h1>
-				<p>I am a Software Developer located in China with a background in 
-				industrial automobile looking to make the change into the tech industry.
+				<p>I have a background in Automobile industry. I loved my time at my previous study, 
+				but I felt like I wanted to pursue something else afterwards. Coding always seemed
+				 interesting to me and I took a chance on it.
 				</p>
-				<p>A childhood curiosity led to an educational focus in Engineering and Technology.
-				While working for Ford, I've gained experience developing lamps for automobile, 
-				communicating directly with customers and troubleshooting electrical,
-				  mechanical and software issues both in the field and remotely.
+				<p>The combination of designing and coding something to life on my screen was 
+				fascinating and it's what leads me on my journey to become a kick-ass full-stack developer.
 				</p>
 				<p>When I'm not coding, I like to play soccer, go rock climbing, lift weights and watch movies.
 				</p>
@@ -50,8 +53,8 @@ const AboutMe = () => {
 					  	 className='dib'
 					  	/>
 					  	<div className='dib'>
-					  	  <h1 >University of SouthWest</h1>
-					  	  <h2 >Vehicle Engineer</h2>				  	  
+					  	  <h2 >University of SouthWest</h2>
+					  	  <h3 >Vehicle Engineer</h3>				  	  
 					  	  <dd className="mt2 f6">2006-2010</dd>				  	  
 					    </div>
 				    </div>
@@ -62,13 +65,14 @@ const AboutMe = () => {
 					  	 className='block'
 					  	/>
 					  	<div className='dib'>
-					  	  <h1 >Self-Taught</h1>
-					  	  <h2 >Full Stack Developer</h2>				  	  
+					  	  <h2 >Self-Taught</h2>
+					  	  <h3 >Full Stack Developer</h3>				  	  
 					  	  <dd className="mt2 f6">2019</dd>				  	  
 					    </div>
 				    </div>
 				    <hr/>
 				    <h1>Get In Touch</h1>
+				    <p>Email: yulin_w@yahoo.com</p>
 				</article>
 			</div>
 		</div>

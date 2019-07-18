@@ -1,0 +1,13 @@
+.a{
+	display: flex;  
+	flex-flow: row wrap;
+	justify-content: center
+}
+
+.self{
+	background: url("rocket.png") left;
+}
+
+.img{
+     z-index: -1; width: 30px;
+}

@@ -1,9 +1,9 @@
 import React from 'react';
-import Nav from './components/Nav';
-import AboutMe from './components/AboutMe';
-import MySkills from './components/MySkills';
-import Projects from './components/Projects';
-import Home from './components/Home';
+import Nav from './components/Nav/Nav';
+import AboutMe from './components/AboutMe/AboutMe';
+import MySkills from './components/MySkills/MySkills';
+import Projects from './components/Projects/Projects';
+import Home from './components/Home/Home';
 import './App.css';
 
 
