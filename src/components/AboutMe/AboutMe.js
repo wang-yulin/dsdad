@@ -34,9 +34,7 @@ const AboutMe = () => {
 			</div>
 			<div className="mw7 tl pa3 ma3">
 				<h1>About me!</h1>
-				<p>I have a background in Automobile industry. I loved my time at my previous study, 
-				but I felt like I wanted to pursue something else afterwards. Coding always seemed
-				 interesting to me and I took a chance on it.
+				<p>I have a background in Automobile industry. A passionate problem-solver.
 				</p>
 				<p>The combination of designing and coding something to life on my screen was 
 				fascinating and it's what leads me on my journey to become a kick-ass full-stack developer.
