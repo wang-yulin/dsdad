@@ -23,7 +23,7 @@ const AboutMe = () => {
 					  <span className="f6 db">GitHub</span>
 					</a>					
 					<a className="link  dib mh3 tc"
-					   href="https://github.com/wangyulinaaron" 
+					   href="www.linkedin.com/in/javascript-developer-yulin" 
 					   target="_blank"
 					   rel="noopener noreferrer" 
 					   title="LinkedIn">
