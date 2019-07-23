@@ -8,7 +8,7 @@ const AboutMe = () => {
 	return (
 		<div className="flex flex-row justify-center ">
 			<div className="mw5 pa3 ma5">
-				<img src={aaron} className="aaron" alt=""/>
+				<img src={aaron} className="aaron" alt="" />
 				<div className="">
 					<h1>Yulin Wang</h1>
 					<hr className="mw3 bb bw1 b--black-10"/>
