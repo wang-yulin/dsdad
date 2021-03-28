@@ -12,8 +12,8 @@ const Projects = () => {
 		        <div className="pr3-ns mb4 mb0-ns w-100 w-40-ns">
 		          <img src={face} className="db grow" alt=""/>
 		          <div className="ph3 flex justify-center">
-					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://yulin-first-app.herokuapp.com/">Live</a>
-					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wangyulinaaron/face-front-end">Github</a>
+					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://wangyulin.herokuapp.com/">Live</a>
+					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wang-yulin/facedetct_front_end">Github</a>
 				  </div>
 		        </div>
 		        <div className="w-100 w-60-ns pl3-ns">
@@ -34,7 +34,7 @@ const Projects = () => {
 		          <img src={robot} className="db grow" alt=""/>
 		          <div className="ph3 flex justify-center">
 		              <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://yulin-robots.herokuapp.com/">Live</a>
-					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wangyulinaaron/Robots">Github</a>
+					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wang-yulin/RobotsFriends">Github</a>
 				  </div>
 		        </div>
 		        <div className="w-100 w-60-ns pl3-ns">
@@ -54,7 +54,7 @@ const Projects = () => {
 		          <img src={portfile} className="db grow" alt=""/>
 		          <div className="ph3 flex justify-center">
 					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://yulin-profile.herokuapp.com/">Live</a>
-					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wangyulinaaron/portfolio">Github</a>
+					  <a className="ma3 f6 link dim ph3 pv2 mb2 dib white bg-purple br3 grow" href="https://github.com/wang-yulin/portfolio">Github</a>
 				  </div>
 		        </div>
 		        <div className="w-100 w-60-ns pl3-ns">

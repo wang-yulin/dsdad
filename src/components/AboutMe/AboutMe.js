@@ -15,7 +15,7 @@ const AboutMe = () => {
 				</div>
 				<footer className="pv2 ph3 flex justify-center">
 					<a className="link  dib mh3 tc"
-					   href="https://github.com/wangyulinaaron" 
+					   href="https://github.com/wang-yulin" 
 					   target="_blank"
 					   rel="noopener noreferrer" 
 					   title="Github">
@@ -23,7 +23,7 @@ const AboutMe = () => {
 					  <span className="f6 db">GitHub</span>
 					</a>					
 					<a className="link  dib mh3 tc"
-					   href="www.linkedin.com/in/javascript-developer-yulin" 
+					   href="https://www.linkedin.com/in/javascript-developer-yulin/" 
 					   target="_blank"
 					   rel="noopener noreferrer" 
 					   title="LinkedIn">
@@ -65,7 +65,7 @@ const AboutMe = () => {
 					  	<div className='dib'>
 					  	  <h2 >Self-Taught</h2>
 					  	  <h3 >Full Stack Developer</h3>				  	  
-					  	  <dd className="mt2 f6">2019</dd>				  	  
+					  	  <dd className="mt2 f6">2021</dd>				  	  
 					    </div>
 				    </div>
 				    <hr/>
